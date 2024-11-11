@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Smart tasks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="arrow_back">arrow_back</string>
+    <string name="arrow_forward">arrow_forward</string>
+    <string name="today">Today</string>
+    <string name="sign_resolved">sign_resolved</string>
+    <string name="unresolved_sign">unresolved_sign</string>
+    <string name="comments">Comments</string>
+    <string name="enter_your_comments">Enter your comments</string>
+    <string name="no_tasks_for_today">No tasks for today!</string>
+    <string name="task_title">Task Title</string>
+    <string name="due_date">Due Date</string>
+    <string name="days_left">Days left</string>
+    <string name="apr_23_2016">Apr 23 2016</string>
+</resources>

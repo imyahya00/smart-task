@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartTasks" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="android:statusBarColor">@color/yellow</item>
+        <!-- <item name="android:windowSplashScreenBrandingImage" tools:targetApi="s">@drawable/intro_bg</item>-->
+        <!-- <item name="android:windowSplashScreenBackground" tools:targetApi="s">@drawable/intro_bg</item>-->
+    </style>
+
+    <style name="Theme.SmartTasks" parent="Base.Theme.SmartTasks" />
+
+    <style name="Theme.SmartTasks.Launcher" parent="Theme.SmartTasks">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="MyAlertDialogTheme" parent="Theme.Material3.DayNight.Dialog">
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+</resources>
